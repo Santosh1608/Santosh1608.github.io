@@ -1,0 +1,63 @@
+body
+{
+	background-image: url(colorback.jpg);
+}
+.color
+{
+	width: 30%;
+	height: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	margin:1.66%;
+	float: left;
+	border-radius: 15%;
+}
+h1
+{
+	color: #e4e4ed;
+	margin-bottom: 0;
+}
+#start
+{
+	background-color: #f0efe4;
+	text-align: center;
+	margin-top: 0;
+}
+#message
+{
+	color: black;
+}
+.display
+{
+	background-color: #000;
+}
+.default
+{
+	background-color: #969695;
+}
+.none
+{
+	display: none;
+}
+button {
+    border-radius: 15%;
+}
+#message
+{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.hidden
+{
+	display: none;
+}
+#easy,#hard
+{
+		outline: none !important;
+		font-weight: 700
+}
+.container
+{
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
